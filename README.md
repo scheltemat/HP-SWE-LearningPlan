@@ -61,7 +61,15 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 
-| Today's Date                       |                                                                                                                                                     |
+| 3/31/25 |  |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What content plan to cover         | ASP.NET Core Full Course for Beginners, possibly a small app                                                                                                |
+| What content I actually covered    | About half of the ASP.NET Full Course video, but plan to finish it today and begin working on a basic app                                                                                         |
+| Reflection on what I learned today | I'm seeing a lot of similarities to other frameworks, so it seems promising to be able to learn it effectively.        |
+| Reflection on how I learned today  | I struggled a lot at the beginning just getting C# and .NET installed and able to run on my machine. Tried it on my Macbook as well and also ran into the same issues, so I had to figure that out before continuing. Otherwise, I feel good about my ability to learn now that the config is done.        |
+| Reflections for the following day  | I feel like I'm on track, I'm also starting with more advanced implementations, rather than just a simple "hello world" app, so I think I'm plenty capable of learning this on my own. |
+
+| Today's Date |  |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | What content plan to cover         | # This should match your learning schedule above                                                                                                    |
 | What content I actually covered    | # This is the content you actually managed to get through                                                                                           |
