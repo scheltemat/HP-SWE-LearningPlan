@@ -2,8 +2,8 @@
 
 ## A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 
-- Learner: {Apprentice Name Here}
-- Date: {Scope of project - this should match the dates of weeks 9-10 of bootcamp}
+- Learner: Thomas Scheltema
+- Date: 3/31 - 4/11
 
 ### Resources:
 
@@ -39,7 +39,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 [//]: # "Complete this outline to show what you plan on covering each day - remember however, that this will likely change depending on your pprogress.  That is fine - just update it when you need to!"
 
 - Monday [3/31]: https://www.youtube.com/watch?v=AhAxLiGC7Pc and maybe a small app
-- Tuesday [4/1]:
+- Tuesday [4/1]: build a todo app
 - Wednesday [4/2]:
 - Thursday [4/3]:
 - Friday [4/4]:
@@ -68,6 +68,14 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflection on what I learned today | I'm seeing a lot of similarities to other frameworks, so it seems promising to be able to learn it effectively.        |
 | Reflection on how I learned today  | I struggled a lot at the beginning just getting C# and .NET installed and able to run on my machine. Tried it on my Macbook as well and also ran into the same issues, so I had to figure that out before continuing. Otherwise, I feel good about my ability to learn now that the config is done.        |
 | Reflections for the following day  | I feel like I'm on track, I'm also starting with more advanced implementations, rather than just a simple "hello world" app, so I think I'm plenty capable of learning this on my own. |
+
+| 4/1/25 |  |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What content plan to cover         | Build a todo app and watch David's video on .NET                                                        |
+| What content I actually covered    | Almost done building the todo app                                                            |
+| Reflection on what I learned today | Today I learned how to connect a MS SQL server datatbase to a .NET project and began learning how to create an MVC app in .NET       |
+| Reflection on how I learned today  | I struggled with the db connection for a while, but through a combination of Stack overflow articles and a lot of trial and error, I got it to connect       |
+| Reflections for the following day  | I think I'm on track still, but tomorrow I want to spend time learning more about building the app rather than the setup and congiguration |
 
 | Today's Date |  |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
