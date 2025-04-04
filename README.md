@@ -42,7 +42,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Tuesday [4/1]: build a todo app
 - Wednesday [4/2]: continue building todo app, start weather app, watch David's .NET video
 - Thursday [4/3]: build weather app, start a full stack app, practice connecting to a db, watch David's video
-- Friday [4/4]:
+- Friday [4/4]: work on weatehr app, watch David's video, setup plant app more
 - Monday [4/7]:
 - Tuesday [4/8]:
 - Wednesday [4/9]:
@@ -62,7 +62,7 @@ you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 
 | 3/31/25 |  |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------- | -------------------------------------- |
 | What content plan to cover         | ASP.NET Core Full Course for Beginners, possibly a small app                                                                                                |
 | What content I actually covered    | About half of the ASP.NET Full Course video, but plan to finish it today and begin working on a basic app                                                                                         |
 | Reflection on what I learned today | I'm seeing a lot of similarities to other frameworks, so it seems promising to be able to learn it effectively.        |
@@ -70,7 +70,7 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflections for the following day  | I feel like I'm on track, I'm also starting with more advanced implementations, rather than just a simple "hello world" app, so I think I'm plenty capable of learning this on my own. |
 
 | 4/1/25 |  |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------- | -------------------------------------- |
 | What content plan to cover         | Build a todo app and watch David's video on .NET                                                        |
 | What content I actually covered    | Almost done building the todo app                                                            |
 | Reflection on what I learned today | Today I learned how to connect a MS SQL server datatbase to a .NET project and began learning how to create an MVC app in .NET       |
@@ -78,7 +78,7 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflections for the following day  | I think I'm on track still, but tomorrow I want to spend time learning more about building the app rather than the setup and congiguration |
 
 | 4/2/25 |  |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------- | -------------------------------------- |
 | What content plan to cover         | I want to streamline the todo app and start another app and practice working with 3rd party APIs, as well as watch David's video on .NET.                                                                                                  |
 | What content I actually covered    | I spent more time than I wanted trying to figure out how to simplify the todo app, and started the weather app which I plan to complete tomorrow. I am also going to finsish the day today watching David's video                                                                    |
 | Reflection on what I learned today | I'm getting a better understanding of the MVC approach that .NET uses. I've used Rails, which is an MVC framework, but I didn't use the views with it, I used a react app.            |
@@ -86,17 +86,25 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflections for the following day  | I think I'm still on track to learning what I need for this week and next week.  |
 
 | 4/3/25 |  |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| What content plan to cover         | Complete a small weather app to practice consuming 3rd party APIs, maybe practice connecting .NET to a database or start a full stack application                                                                                                    |
-| What content I actually covered    | Couldn't do the weather app due to API key validation taking ~24 hours, so instead I created my full stack hackathon project to test if I could connect a Blazor front end to a .NET web API. Also gave me a chance to practice database connections again                                                                                         |
-| Reflection on what I learned today | I did some more research on .NET to figure out what type of app I want to make for the hackathon. Learned about Blazor apps and how to connect them to an API           |
-| Reflection on how I learned today  | I felt very productive today and felt like I got a lot done, as well as practicing putting all the pieces together with a full stack app in the .NET ecosystem        |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | Complete a small weather app to practice consuming 3rd party APIs, maybe practice connecting .NET to a database or start a full stack application |
+| What content I actually covered    | Couldn't do the weather app due to API key validation taking ~24 hours, so instead I created my full stack hackathon project to test if I could connect a Blazor front end to a .NET web API. Also gave me a chance to practice database connections again |
+| Reflection on what I learned today | I did some more research on .NET to figure out what type of app I want to make for the hackathon. Learned about Blazor apps and how to connect them to an API |
+| Reflection on how I learned today  | I felt very productive today and felt like I got a lot done, as well as practicing putting all the pieces together with a full stack app in the .NET ecosystem |
 | Reflections for the following day  | I think I'm very much on track, I want to also go back to some basics with C# now that I have the application figured out |
 
+| 4/4/25 |  |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | Watch David's video, practice writing programs in C#, work on weather app, setup plant app even more |
+| What content I actually covered    | Watched David's video, which helped me add User model and controller to plant app to practice creating models and CRUD operations in .NET, wrote a string reversing program in C#. Might abandon the weather app because it's still saying my API key is invalid over 24 hours later |
+| Reflection on what I learned today | Setting up and configuring a project is no longer the hard part for me, it's doing basic things like setting up CRUD operations on models. Not sure how much I learned, but I think I can at least model future features off of what I have currently |
+| Reflection on how I learned today  | Like I said before, things I can do in other frameworks are harder for me to figure out in .NET, also it's hard for me to understand error messages, but I'm slowly getting there. Even though I have snags, I usually get around them with dilligent research |
+| Reflections for the following day  | I still need to practice the basics, but I'm still feeling good about my progress |
+
 | Today's Date |  |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| What content plan to cover         | # This should match your learning schedule above                                                                                                    |
-| What content I actually covered    | # This is the content you actually managed to get through                                                                                           |
-| Reflection on what I learned today | # How this will apply on the job, something you found enjoyable, insightful, difficult, or questions that arose as result of the learning           |
-| Reflection on how I learned today  | # Why was today a good or bad day? What patterns am I noticing in myself when learning? How effective was I today as an independent learner?        |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | # This should match your learning schedule above |
+| What content I actually covered    | # This is the content you actually managed to get through |
+| Reflection on what I learned today | # How this will apply on the job, something you found enjoyable, insightful, difficult, or questions that arose as result of the learning |
+| Reflection on how I learned today  | # Why was today a good or bad day? What patterns am I noticing in myself when learning? How effective was I today as an independent learner? |
 | Reflections for the following day  | # Am I on track against my original goals, or is there a need to adapt? What support will I need from my coach with any changes I may need to make? |
