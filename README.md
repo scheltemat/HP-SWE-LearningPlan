@@ -41,7 +41,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Monday [3/31]: https://www.youtube.com/watch?v=AhAxLiGC7Pc and maybe a small app
 - Tuesday [4/1]: build a todo app
 - Wednesday [4/2]: continue building todo app, start weather app, watch David's .NET video
-- Thursday [4/3]:
+- Thursday [4/3]: build weather app, start a full stack app, practice connecting to a db, watch David's video
 - Friday [4/4]:
 - Monday [4/7]:
 - Tuesday [4/8]:
@@ -84,6 +84,14 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflection on what I learned today | I'm getting a better understanding of the MVC approach that .NET uses. I've used Rails, which is an MVC framework, but I didn't use the views with it, I used a react app.            |
 | Reflection on how I learned today  | A lot of my learning today was just poking around in the app and trying things until they worked, as well as looking at stack overflow articles.       |
 | Reflections for the following day  | I think I'm still on track to learning what I need for this week and next week.  |
+
+| 4/3/25 |  |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What content plan to cover         | Complete a small weather app to practice consuming 3rd party APIs, maybe practice connecting .NET to a database or start a full stack application                                                                                                    |
+| What content I actually covered    | Couldn't do the weather app due to API key validation taking ~24 hours, so instead I created my full stack hackathon project to test if I could connect a Blazor front end to a .NET web API. Also gave me a chance to practice database connections again                                                                                         |
+| Reflection on what I learned today | I did some more research on .NET to figure out what type of app I want to make for the hackathon. Learned about Blazor apps and how to connect them to an API           |
+| Reflection on how I learned today  | I felt very productive today and felt like I got a lot done, as well as practicing putting all the pieces together with a full stack app in the .NET ecosystem        |
+| Reflections for the following day  | I think I'm very much on track, I want to also go back to some basics with C# now that I have the application figured out |
 
 | Today's Date |  |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
