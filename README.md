@@ -43,7 +43,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Wednesday [4/2]: continue building todo app, start weather app, watch David's .NET video
 - Thursday [4/3]: build weather app, start a full stack app, practice connecting to a db, watch David's video
 - Friday [4/4]: work on weatehr app, watch David's video, setup plant app more
-- Monday [4/7]:
+- Monday [4/7]: write more programs in C#, try implementing auth into plant app
 - Tuesday [4/8]:
 - Wednesday [4/9]:
 - Thursday [4/10]:
@@ -63,27 +63,27 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 
 | 3/31/25 |  |
 | ---------------------------------- | -------------------------------------- |
-| What content plan to cover         | ASP.NET Core Full Course for Beginners, possibly a small app                                                                                                |
-| What content I actually covered    | About half of the ASP.NET Full Course video, but plan to finish it today and begin working on a basic app                                                                                         |
-| Reflection on what I learned today | I'm seeing a lot of similarities to other frameworks, so it seems promising to be able to learn it effectively.        |
-| Reflection on how I learned today  | I struggled a lot at the beginning just getting C# and .NET installed and able to run on my machine. Tried it on my Macbook as well and also ran into the same issues, so I had to figure that out before continuing. Otherwise, I feel good about my ability to learn now that the config is done.        |
+| What content plan to cover         | ASP.NET Core Full Course for Beginners, possibly a small app |
+| What content I actually covered    | About half of the ASP.NET Full Course video, but plan to finish it today and begin working on a basic app |
+| Reflection on what I learned today | I'm seeing a lot of similarities to other frameworks, so it seems promising to be able to learn it effectively. |
+| Reflection on how I learned today  | I struggled a lot at the beginning just getting C# and .NET installed and able to run on my machine. Tried it on my Macbook as well and also ran into the same issues, so I had to figure that out before continuing. Otherwise, I feel good about my ability to learn now that the config is done. |
 | Reflections for the following day  | I feel like I'm on track, I'm also starting with more advanced implementations, rather than just a simple "hello world" app, so I think I'm plenty capable of learning this on my own. |
 
 | 4/1/25 |  |
 | ---------------------------------- | -------------------------------------- |
-| What content plan to cover         | Build a todo app and watch David's video on .NET                                                        |
-| What content I actually covered    | Almost done building the todo app                                                            |
-| Reflection on what I learned today | Today I learned how to connect a MS SQL server datatbase to a .NET project and began learning how to create an MVC app in .NET       |
-| Reflection on how I learned today  | I struggled with the db connection for a while, but through a combination of Stack overflow articles and a lot of trial and error, I got it to connect       |
+| What content plan to cover         | Build a todo app and watch David's video on .NET |
+| What content I actually covered    | Almost done building the todo app |
+| Reflection on what I learned today | Today I learned how to connect a MS SQL server datatbase to a .NET project and began learning how to create an MVC app in .NET |
+| Reflection on how I learned today  | I struggled with the db connection for a while, but through a combination of Stack overflow articles and a lot of trial and error, I got it to connect |
 | Reflections for the following day  | I think I'm on track still, but tomorrow I want to spend time learning more about building the app rather than the setup and congiguration |
 
 | 4/2/25 |  |
 | ---------------------------------- | -------------------------------------- |
-| What content plan to cover         | I want to streamline the todo app and start another app and practice working with 3rd party APIs, as well as watch David's video on .NET.                                                                                                  |
-| What content I actually covered    | I spent more time than I wanted trying to figure out how to simplify the todo app, and started the weather app which I plan to complete tomorrow. I am also going to finsish the day today watching David's video                                                                    |
-| Reflection on what I learned today | I'm getting a better understanding of the MVC approach that .NET uses. I've used Rails, which is an MVC framework, but I didn't use the views with it, I used a react app.            |
-| Reflection on how I learned today  | A lot of my learning today was just poking around in the app and trying things until they worked, as well as looking at stack overflow articles.       |
-| Reflections for the following day  | I think I'm still on track to learning what I need for this week and next week.  |
+| What content plan to cover         | I want to streamline the todo app and start another app and practice working with 3rd party APIs, as well as watch David's video on .NET. |
+| What content I actually covered    | I spent more time than I wanted trying to figure out how to simplify the todo app, and started the weather app which I plan to complete tomorrow. I am also going to finsish the day today watching David's video |
+| Reflection on what I learned today | I'm getting a better understanding of the MVC approach that .NET uses. I've used Rails, which is an MVC framework, but I didn't use the views with it, I used a react app. |
+| Reflection on how I learned today  | A lot of my learning today was just poking around in the app and trying things until they worked, as well as looking at stack overflow articles. |
+| Reflections for the following day  | I think I'm still on track to learning what I need for this week and next week. |
 
 | 4/3/25 |  |
 | ---------------------------------- | -------------------------------------- |
@@ -100,6 +100,14 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflection on what I learned today | Setting up and configuring a project is no longer the hard part for me, it's doing basic things like setting up CRUD operations on models. Not sure how much I learned, but I think I can at least model future features off of what I have currently |
 | Reflection on how I learned today  | Like I said before, things I can do in other frameworks are harder for me to figure out in .NET, also it's hard for me to understand error messages, but I'm slowly getting there. Even though I have snags, I usually get around them with dilligent research |
 | Reflections for the following day  | I still need to practice the basics, but I'm still feeling good about my progress |
+
+| 4/7/25 |  |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | Work on writing C# programs, try building authentication into plant app |
+| What content I actually covered    | Wrote a 2 sum solution in C#, worked on auth ALL DAY, but getting pretty close |
+| Reflection on what I learned today | Auth is not something I'm super knowledgeable on, so I hope that building something and implementing it myself will help me better understand it |
+| Reflection on how I learned today  | I realized pretty late that building custom auth is a bad idea for me, so I scrapped all of that work in favor of an auth package. Rebuilt my User model and methods. |
+| Reflections for the following day  | I think I'm doing well, I'm resourceful and able to get things done that need to get done and my project is almost all setup so that during the build week I don't need to focus on hard things like user auth |
 
 | Today's Date |  |
 | ---------------------------------- | -------------------------------------- |
