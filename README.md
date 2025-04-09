@@ -44,7 +44,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Thursday [4/3]: build weather app, start a full stack app, practice connecting to a db, watch David's video
 - Friday [4/4]: work on weatehr app, watch David's video, setup plant app more
 - Monday [4/7]: write more programs in C#, try implementing auth into plant app
-- Tuesday [4/8]:
+- Tuesday [4/8]: build out auth in plant app
 - Wednesday [4/9]:
 - Thursday [4/10]:
 - Friday [4/11]:
@@ -108,6 +108,14 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflection on what I learned today | Auth is not something I'm super knowledgeable on, so I hope that building something and implementing it myself will help me better understand it |
 | Reflection on how I learned today  | I realized pretty late that building custom auth is a bad idea for me, so I scrapped all of that work in favor of an auth package. Rebuilt my User model and methods. |
 | Reflections for the following day  | I think I'm doing well, I'm resourceful and able to get things done that need to get done and my project is almost all setup so that during the build week I don't need to focus on hard things like user auth |
+
+| 4/8/25 |  |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | My only goal is to get the authentication built out on the plant app |
+| What content I actually covered    | I struggled all day to get this to work with cookies until I decided to scrap it for token auth and didn't actually get it working until the next morning |
+| Reflection on what I learned today | I'm more familiar with tokens, so I think I should just stick with token auth to eliminate headaches. But I would like to learn cookie auth at some point |
+| Reflection on how I learned today  | Cookies = hard, token = easier, but still hard. But I just keep chugging on |
+| Reflections for the following day  | I think I'm definitely on track, doing all of this prework to setup my application shell will allow me to build out a feature-rich app during the hackathon. |
 
 | Today's Date |  |
 | ---------------------------------- | -------------------------------------- |
