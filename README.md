@@ -45,7 +45,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Friday [4/4]: work on weatehr app, watch David's video, setup plant app more
 - Monday [4/7]: write more programs in C#, try implementing auth into plant app
 - Tuesday [4/8]: build out auth in plant app
-- Wednesday [4/9]:
+- Wednesday [4/9]: finish auth, work on deployment
 - Thursday [4/10]:
 - Friday [4/11]:
 
@@ -116,6 +116,14 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflection on what I learned today | I'm more familiar with tokens, so I think I should just stick with token auth to eliminate headaches. But I would like to learn cookie auth at some point |
 | Reflection on how I learned today  | Cookies = hard, token = easier, but still hard. But I just keep chugging on |
 | Reflections for the following day  | I think I'm definitely on track, doing all of this prework to setup my application shell will allow me to build out a feature-rich app during the hackathon. |
+
+| 4/9/25 |  |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | Finish user auth, then work on deployment |
+| What content I actually covered    | Finsished user auth, deployment in progress |
+| Reflection on what I learned today | I now have a better understanding of authentication, and I really want to know more about how deployment works, so it's a big goal of mine |
+| Reflection on how I learned today  | Deployment is hard, especially in a new framework. Currently weighing the options to decide what will allow me to be most successful |
+| Reflections for the following day  | I'm definetly on track, ready to build my hackathon project! |
 
 | Today's Date |  |
 | ---------------------------------- | -------------------------------------- |
