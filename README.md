@@ -46,8 +46,8 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Monday [4/7]: write more programs in C#, try implementing auth into plant app
 - Tuesday [4/8]: build out auth in plant app
 - Wednesday [4/9]: finish auth, work on deployment
-- Thursday [4/10]:
-- Friday [4/11]:
+- Thursday [4/10]: work on deployment
+- Friday [4/11]: integrate 3rd party API into application API
 
 ---
 
@@ -124,6 +124,22 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***"
 | Reflection on what I learned today | I now have a better understanding of authentication, and I really want to know more about how deployment works, so it's a big goal of mine |
 | Reflection on how I learned today  | Deployment is hard, especially in a new framework. Currently weighing the options to decide what will allow me to be most successful |
 | Reflections for the following day  | I'm definetly on track, ready to build my hackathon project! |
+
+| 4/10/25 |  |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | My goal is to have my base app deployed and maybe a deployment pipeline |
+| What content I actually covered    | I decided to stop working on deployment a pivot my front end technology from Blazor to Angular |
+| Reflection on what I learned today | Started learning the basics of Angular and how to connect an Angular app to a backend |
+| Reflection on how I learned today  | Today was good because I should've been using Angular all along. It's more aligned with my team's tech stack and in my opinion, is easier to understand |
+| Reflections for the following day  | I'm feeling really good after today, this sort of last minute switch was pretty key for me. The project and my learning is still very much on track |
+
+| 4/11/25 |  |
+| ---------------------------------- | -------------------------------------- |
+| What content plan to cover         | Today my only goal is to integrate the 3rd party plant API into not my front end app, but into my .NET web API |
+| What content I actually covered    | Today I was able to integrate the plant API successfully into my .NET web API. You can make a request to my API and it pipes it to the plant API via a service |
+| Reflection on what I learned today | I think with third party API integration, I kinda had an 'aha' moment. These things really should not be handled by the presentation tier, but the business logic tier. The presentation tier's only job should be to dispaly a user interface |
+| Reflection on how I learned today  | Today went well, and I was able to touch on past experiences on how to reach my goal of API integration. I knew what to do, just not necessarily how to do it, so learning the HOW part was pretty cool. I'm liking .NET web APIs |
+| Reflections for the following day  | With this last addition to my project's shell, I'm all up and running and ready to build out the app next week. I think it'll be nice, feature rich, and I have a goal of maybe making it into a long term project if I can flesh out the ideas well enough |
 
 | Today's Date |  |
 | ---------------------------------- | -------------------------------------- |
